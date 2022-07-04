@@ -16,7 +16,12 @@ A flutter app demonstrating the use of cupertino style picker for picking DATE,T
     <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/android/android1.png" height="480px"></td>
     <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/android/android2.png" height="480px"></td>
     <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/android/android3.png" height="480px"></td>
-    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/android/android3.png" height="480px"></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/android/android4.png" height="480px"></td>
   </tr>
  </table>
 
@@ -27,9 +32,14 @@ A flutter app demonstrating the use of cupertino style picker for picking DATE,T
 
 <table>
   <tr>
-    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios1.png" height="420px"></td>
-    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios2.png" height="420px"></td>
-    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios3.png" height="420px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios1.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios2.png" height="480px"></td>
+    <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios3.png" height="480px"></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
     <td><img src="https://github.com/MarvelApps-Flutter/cupertino_picker_demo/blob/master/screenshots/ios/ios4.png" height="420px"></td>
   </tr>
  </table>
